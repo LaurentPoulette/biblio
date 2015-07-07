@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/01/08 18:49:54.000.251,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/01/09 09:52:43.000.655,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/01/09 10:18:39.000.632,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/01/12 15:10:23.000.273,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/02/06 10:17:37.000.460,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/03/25 15:05:44.000.130,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/07/07 15:01:43.621,=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/07/07 15:02:40.259,D:\data\git\biblio\uMain.dfm=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2015/07/07 15:02:40.259,D:\data\git\biblio\uMain.pas=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2015/07/07 15:02:55.243,D:\data\git\biblio\basicBiblio.dproj=C:\Utilisateurs\A137035\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
